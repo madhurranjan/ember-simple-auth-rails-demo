@@ -131,6 +131,7 @@ DEPENDENCIES
   quiet_assets
   qunit-rails
   rails (= 4.1.6)
+  rake
   sass-rails (~> 4.0.3)
   sqlite3
   therubyracer
