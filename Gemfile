@@ -15,3 +15,4 @@ gem 'ember-rails'
 gem 'ember-source', '~> 1.5.1'
 
 gem 'qunit-rails'
+gem 'rake'
